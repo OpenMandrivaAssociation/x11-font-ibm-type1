@@ -1,6 +1,6 @@
 Name: x11-font-ibm-type1
 Version: 1.0.3
-Release: %mkrel 1
+Release: 2
 Summary: Xorg X11 font ibm-type1
 Group: Development/X11
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
